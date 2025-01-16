@@ -1,0 +1,42 @@
+
+
+Software Version	3.04.17
+
+
+
+Experiment File Path:	C:\Users\AAD\Dropbox\Stanford\Huang_lab\Projects\AnaCSS\GrowthCurveData\FinalOD\AnaCSS1_T2_20190226_AAD.xpt
+Protocol File Path:	Y:\aarandad\AnaCSS1\AnaCSS1_readOD.prt
+
+
+
+Plate Number	Plate 14
+Date	2/26/2019
+Time	14:27:13
+Reader Type:	Synergy 2
+Reader Serial Number:	1601101
+Reading Type	Reader
+
+Procedure Details
+
+Plate Type	96 WELL PLATE
+Eject plate on completion	
+Read	Absorbance Endpoint
+	Full Plate
+	Wavelengths:  600
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 8
+
+
+
+Actual Temperature:	34.3
+
+Results
+	1	2	3	4	5	6	7	8	9	10	11	12
+A	0.508	0.490	0.450	0.492	0.429	0.323	0.317	0.448	0.303	0.887	0.328	0.343	600
+B	0.470	0.398	0.429	0.429	0.499	0.278	0.298	0.283	0.256	0.907	0.342	0.283	600
+C	0.500	0.426	0.437	0.471	0.506	0.251	0.141	0.297	0.300	0.886	0.259	0.322	600
+D	0.517	0.419	0.423	0.539	0.479	0.277	0.327	0.328	0.312	0.894	0.327	0.336	600
+E	0.432	0.467	0.599	0.408	0.414	0.223	0.518	0.391	0.204	0.252	0.346	0.211	600
+F	0.440	0.438	0.539	0.480	0.452	0.348	0.512	0.385	0.185	0.230	0.325	0.216	600
+G	0.448	0.502	0.543	0.502	0.473	0.290	0.549	0.417	0.189	0.236	0.334	0.236	600
+H	0.453	0.512	0.580	0.524	0.468	0.352	0.543	0.410	0.175	0.259	0.321	0.262	600
+
